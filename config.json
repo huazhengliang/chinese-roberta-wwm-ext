@@ -1,4 +1,7 @@
 {
+  "architectures": [
+    "RobertaForMaskedLM"
+  ],
   "attention_probs_dropout_prob": 0.1,
   "directionality": "bidi",
   "finetuning_task": null,
