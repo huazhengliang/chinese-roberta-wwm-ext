@@ -17,7 +17,7 @@
   "num_attention_heads": 12,
   "num_hidden_layers": 12,
   "output_past": true,
-  "pad_token_id": 1,
+  "pad_token_id": 0,
   "pooler_fc_size": 768,
   "pooler_num_attention_heads": 12,
   "pooler_num_fc_layers": 3,
